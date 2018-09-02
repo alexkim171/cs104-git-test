@@ -2,5 +2,6 @@
 using namespace std; 
 
 int main() { 
-	cout << "Fight On!" << endl; 
+	cout << "Fight On!" << endl;
+	cout << "another one" << endl;  
 }
